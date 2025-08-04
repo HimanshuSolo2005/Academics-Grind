@@ -5,7 +5,7 @@ tags:
   - Types-of-OS
 ---
 
-# Types of Operating Systems
+# 3. Types of Operating Systems
 
 ## 🔹 Type 1 & 2
 ![alt text](image-4.png)

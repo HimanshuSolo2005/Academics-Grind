@@ -5,7 +5,7 @@ tags:
   - Gen-of-OS
 ---
 
-# Generations of Operating Systems
+# 2. Generations of Operating Systems
 
 
 | **Generation** | **Period**          | **Characteristics**                                                 |

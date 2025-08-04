@@ -5,7 +5,7 @@ tags:
   - Concept-of-OS
 ---
  
-# Concept of Operating Systems
+# 1. Concept of Operating Systems
 
 ## 🔹 Definition:
 An Operating System (OS) is a system software that acts as an intermediary between users and computer hardware. It manages hardware resources and provides services for computer programs.
